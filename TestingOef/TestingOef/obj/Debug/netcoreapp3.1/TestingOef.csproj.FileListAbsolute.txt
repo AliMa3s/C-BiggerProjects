@@ -1,0 +1,13 @@
+C:\Users\alima\source\repos\TestingOef\TestingOef\bin\Debug\netcoreapp3.1\TestingOef.exe
+C:\Users\alima\source\repos\TestingOef\TestingOef\bin\Debug\netcoreapp3.1\TestingOef.deps.json
+C:\Users\alima\source\repos\TestingOef\TestingOef\bin\Debug\netcoreapp3.1\TestingOef.runtimeconfig.json
+C:\Users\alima\source\repos\TestingOef\TestingOef\bin\Debug\netcoreapp3.1\TestingOef.runtimeconfig.dev.json
+C:\Users\alima\source\repos\TestingOef\TestingOef\bin\Debug\netcoreapp3.1\TestingOef.dll
+C:\Users\alima\source\repos\TestingOef\TestingOef\bin\Debug\netcoreapp3.1\TestingOef.pdb
+C:\Users\alima\source\repos\TestingOef\TestingOef\obj\Debug\netcoreapp3.1\TestingOef.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\TestingOef\TestingOef\obj\Debug\netcoreapp3.1\TestingOef.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\TestingOef\TestingOef\obj\Debug\netcoreapp3.1\TestingOef.AssemblyInfo.cs
+C:\Users\alima\source\repos\TestingOef\TestingOef\obj\Debug\netcoreapp3.1\TestingOef.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\TestingOef\TestingOef\obj\Debug\netcoreapp3.1\TestingOef.dll
+C:\Users\alima\source\repos\TestingOef\TestingOef\obj\Debug\netcoreapp3.1\TestingOef.pdb
+C:\Users\alima\source\repos\TestingOef\TestingOef\obj\Debug\netcoreapp3.1\TestingOef.genruntimeconfig.cache
