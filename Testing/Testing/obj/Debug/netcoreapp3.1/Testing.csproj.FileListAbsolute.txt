@@ -1,0 +1,13 @@
+C:\Users\alima\source\repos\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfo.cs
+C:\Users\alima\source\repos\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.exe
+C:\Users\alima\source\repos\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.deps.json
+C:\Users\alima\source\repos\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.json
+C:\Users\alima\source\repos\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.dev.json
+C:\Users\alima\source\repos\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.dll
+C:\Users\alima\source\repos\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.pdb
+C:\Users\alima\source\repos\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.dll
+C:\Users\alima\source\repos\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.pdb
+C:\Users\alima\source\repos\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.genruntimeconfig.cache
