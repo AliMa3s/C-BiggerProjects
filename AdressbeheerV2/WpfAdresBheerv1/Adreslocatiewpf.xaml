@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfAdresBheerv1.Adreslocatiewpf"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAdresBheerv1"
+        mc:Ignorable="d"
+        Title="AdresLocatie" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <DataGrid x:Name ="datagrid" HorizontalAlignment="Left" Height="335" Margin="293,58,0,0" VerticalAlignment="Top" Width="178"/>
+        <Button Content="Terug" HorizontalAlignment="Left" Margin="10,372,0,0" VerticalAlignment="Top" Width="101" Height="29" Click="Button_Click_Terug"/>
+        <Label Content="Locaties Overzicht" HorizontalAlignment="Center" VerticalAlignment="Top" FontWeight="Bold" FontSize="36"/>
+
+    </Grid>
+</Window>
