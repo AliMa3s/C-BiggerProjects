@@ -1,0 +1,13 @@
+C:\Users\alima\source\repos\schoolTest\schoolTest\obj\Debug\netcoreapp3.1\schoolTest.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\schoolTest\schoolTest\obj\Debug\netcoreapp3.1\schoolTest.AssemblyInfo.cs
+C:\Users\alima\source\repos\schoolTest\schoolTest\obj\Debug\netcoreapp3.1\schoolTest.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\schoolTest\schoolTest\bin\Debug\netcoreapp3.1\schoolTest.exe
+C:\Users\alima\source\repos\schoolTest\schoolTest\bin\Debug\netcoreapp3.1\schoolTest.deps.json
+C:\Users\alima\source\repos\schoolTest\schoolTest\bin\Debug\netcoreapp3.1\schoolTest.runtimeconfig.json
+C:\Users\alima\source\repos\schoolTest\schoolTest\bin\Debug\netcoreapp3.1\schoolTest.runtimeconfig.dev.json
+C:\Users\alima\source\repos\schoolTest\schoolTest\bin\Debug\netcoreapp3.1\schoolTest.dll
+C:\Users\alima\source\repos\schoolTest\schoolTest\bin\Debug\netcoreapp3.1\schoolTest.pdb
+C:\Users\alima\source\repos\schoolTest\schoolTest\obj\Debug\netcoreapp3.1\schoolTest.dll
+C:\Users\alima\source\repos\schoolTest\schoolTest\obj\Debug\netcoreapp3.1\schoolTest.pdb
+C:\Users\alima\source\repos\schoolTest\schoolTest\obj\Debug\netcoreapp3.1\schoolTest.genruntimeconfig.cache
+C:\Users\alima\source\repos\schoolTest\schoolTest\obj\Debug\netcoreapp3.1\schoolTest.csprojAssemblyReference.cache
