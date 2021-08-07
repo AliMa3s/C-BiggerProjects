@@ -1,0 +1,13 @@
+C:\Users\alima\source\repos\GFX2\GFX2\bin\Debug\netcoreapp3.1\GFX2.exe
+C:\Users\alima\source\repos\GFX2\GFX2\bin\Debug\netcoreapp3.1\GFX2.deps.json
+C:\Users\alima\source\repos\GFX2\GFX2\bin\Debug\netcoreapp3.1\GFX2.runtimeconfig.json
+C:\Users\alima\source\repos\GFX2\GFX2\bin\Debug\netcoreapp3.1\GFX2.runtimeconfig.dev.json
+C:\Users\alima\source\repos\GFX2\GFX2\bin\Debug\netcoreapp3.1\GFX2.dll
+C:\Users\alima\source\repos\GFX2\GFX2\bin\Debug\netcoreapp3.1\GFX2.pdb
+C:\Users\alima\source\repos\GFX2\GFX2\obj\Debug\netcoreapp3.1\GFX2.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\GFX2\GFX2\obj\Debug\netcoreapp3.1\GFX2.AssemblyInfo.cs
+C:\Users\alima\source\repos\GFX2\GFX2\obj\Debug\netcoreapp3.1\GFX2.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\GFX2\GFX2\obj\Debug\netcoreapp3.1\GFX2.dll
+C:\Users\alima\source\repos\GFX2\GFX2\obj\Debug\netcoreapp3.1\GFX2.pdb
+C:\Users\alima\source\repos\GFX2\GFX2\obj\Debug\netcoreapp3.1\GFX2.genruntimeconfig.cache
+C:\Users\alima\source\repos\GFX2\GFX2\obj\Debug\netcoreapp3.1\GFX2.csprojAssemblyReference.cache
