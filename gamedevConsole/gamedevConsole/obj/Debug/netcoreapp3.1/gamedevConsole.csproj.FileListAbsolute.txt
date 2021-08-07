@@ -1,0 +1,12 @@
+C:\Users\alima\source\repos\gamedevConsole\gamedevConsole\bin\Debug\netcoreapp3.1\gamedevConsole.exe
+C:\Users\alima\source\repos\gamedevConsole\gamedevConsole\bin\Debug\netcoreapp3.1\gamedevConsole.deps.json
+C:\Users\alima\source\repos\gamedevConsole\gamedevConsole\bin\Debug\netcoreapp3.1\gamedevConsole.runtimeconfig.json
+C:\Users\alima\source\repos\gamedevConsole\gamedevConsole\bin\Debug\netcoreapp3.1\gamedevConsole.runtimeconfig.dev.json
+C:\Users\alima\source\repos\gamedevConsole\gamedevConsole\bin\Debug\netcoreapp3.1\gamedevConsole.dll
+C:\Users\alima\source\repos\gamedevConsole\gamedevConsole\bin\Debug\netcoreapp3.1\gamedevConsole.pdb
+C:\Users\alima\source\repos\gamedevConsole\gamedevConsole\obj\Debug\netcoreapp3.1\gamedevConsole.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\gamedevConsole\gamedevConsole\obj\Debug\netcoreapp3.1\gamedevConsole.AssemblyInfo.cs
+C:\Users\alima\source\repos\gamedevConsole\gamedevConsole\obj\Debug\netcoreapp3.1\gamedevConsole.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\gamedevConsole\gamedevConsole\obj\Debug\netcoreapp3.1\gamedevConsole.dll
+C:\Users\alima\source\repos\gamedevConsole\gamedevConsole\obj\Debug\netcoreapp3.1\gamedevConsole.pdb
+C:\Users\alima\source\repos\gamedevConsole\gamedevConsole\obj\Debug\netcoreapp3.1\gamedevConsole.genruntimeconfig.cache
