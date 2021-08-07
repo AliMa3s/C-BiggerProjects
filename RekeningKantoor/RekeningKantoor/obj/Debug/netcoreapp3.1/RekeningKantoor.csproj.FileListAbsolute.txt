@@ -1,0 +1,13 @@
+C:\Users\alima\source\repos\RekeningKantoor\RekeningKantoor\obj\Debug\netcoreapp3.1\RekeningKantoor.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\RekeningKantoor\RekeningKantoor\obj\Debug\netcoreapp3.1\RekeningKantoor.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\RekeningKantoor\RekeningKantoor\obj\Debug\netcoreapp3.1\RekeningKantoor.AssemblyInfo.cs
+C:\Users\alima\source\repos\RekeningKantoor\RekeningKantoor\obj\Debug\netcoreapp3.1\RekeningKantoor.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\RekeningKantoor\RekeningKantoor\bin\Debug\netcoreapp3.1\RekeningKantoor.exe
+C:\Users\alima\source\repos\RekeningKantoor\RekeningKantoor\bin\Debug\netcoreapp3.1\RekeningKantoor.deps.json
+C:\Users\alima\source\repos\RekeningKantoor\RekeningKantoor\bin\Debug\netcoreapp3.1\RekeningKantoor.runtimeconfig.json
+C:\Users\alima\source\repos\RekeningKantoor\RekeningKantoor\bin\Debug\netcoreapp3.1\RekeningKantoor.runtimeconfig.dev.json
+C:\Users\alima\source\repos\RekeningKantoor\RekeningKantoor\bin\Debug\netcoreapp3.1\RekeningKantoor.dll
+C:\Users\alima\source\repos\RekeningKantoor\RekeningKantoor\bin\Debug\netcoreapp3.1\RekeningKantoor.pdb
+C:\Users\alima\source\repos\RekeningKantoor\RekeningKantoor\obj\Debug\netcoreapp3.1\RekeningKantoor.dll
+C:\Users\alima\source\repos\RekeningKantoor\RekeningKantoor\obj\Debug\netcoreapp3.1\RekeningKantoor.pdb
+C:\Users\alima\source\repos\RekeningKantoor\RekeningKantoor\obj\Debug\netcoreapp3.1\RekeningKantoor.genruntimeconfig.cache
