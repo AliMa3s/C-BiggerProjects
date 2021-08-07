@@ -1,0 +1,13 @@
+C:\Users\alima\source\repos\Diagram\Diagram\obj\Debug\netcoreapp3.1\Diagram.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\Diagram\Diagram\obj\Debug\netcoreapp3.1\Diagram.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\Diagram\Diagram\obj\Debug\netcoreapp3.1\Diagram.AssemblyInfo.cs
+C:\Users\alima\source\repos\Diagram\Diagram\obj\Debug\netcoreapp3.1\Diagram.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\Diagram\Diagram\bin\Debug\netcoreapp3.1\Diagram.exe
+C:\Users\alima\source\repos\Diagram\Diagram\bin\Debug\netcoreapp3.1\Diagram.deps.json
+C:\Users\alima\source\repos\Diagram\Diagram\bin\Debug\netcoreapp3.1\Diagram.runtimeconfig.json
+C:\Users\alima\source\repos\Diagram\Diagram\bin\Debug\netcoreapp3.1\Diagram.runtimeconfig.dev.json
+C:\Users\alima\source\repos\Diagram\Diagram\bin\Debug\netcoreapp3.1\Diagram.dll
+C:\Users\alima\source\repos\Diagram\Diagram\bin\Debug\netcoreapp3.1\Diagram.pdb
+C:\Users\alima\source\repos\Diagram\Diagram\obj\Debug\netcoreapp3.1\Diagram.dll
+C:\Users\alima\source\repos\Diagram\Diagram\obj\Debug\netcoreapp3.1\Diagram.pdb
+C:\Users\alima\source\repos\Diagram\Diagram\obj\Debug\netcoreapp3.1\Diagram.genruntimeconfig.cache
