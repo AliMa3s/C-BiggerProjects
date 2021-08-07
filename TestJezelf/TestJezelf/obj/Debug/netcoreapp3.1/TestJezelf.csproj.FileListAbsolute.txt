@@ -1,0 +1,4 @@
+C:\Users\alima\source\repos\TestJezelf\TestJezelf\obj\Debug\netcoreapp3.1\TestJezelf.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\TestJezelf\TestJezelf\obj\Debug\netcoreapp3.1\TestJezelf.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\TestJezelf\TestJezelf\obj\Debug\netcoreapp3.1\TestJezelf.AssemblyInfo.cs
+C:\Users\alima\source\repos\TestJezelf\TestJezelf\obj\Debug\netcoreapp3.1\TestJezelf.csproj.CoreCompileInputs.cache
