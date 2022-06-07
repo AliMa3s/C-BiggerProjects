@@ -8,7 +8,7 @@ using System.Linq;
 namespace ConsoleApp1 {
     class Program {
         static void Main(string[] args) {
-            string connection = @"Data Source=LAPTOP-6SGVUNSR\SQLEXPRESS;Initial Catalog=SqlAdres;Integrated Security=True";
+            string connection = @"Data Source=tobeadded;Initial Catalog=SqlAdres;Integrated Security=True";
             DbProviderFactories.RegisterFactory("SqlAdres", SqlClientFactory.Instance);
             DbProviderFactory sqlFactory = DbProviderFactories.GetFactory("SqlAdres");
             Bevraging bvgVoegen = new Bevraging(sqlFactory, connection);
