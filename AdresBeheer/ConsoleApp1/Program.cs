@@ -9,7 +9,7 @@ namespace ConsoleApp1 {
     class Program {
         static void Main(string[] args) {
             DbProviderFactories.RegisterFactory("sqlServer", SqlClientFactory.Instance);
-            string connectionString = @"Data Source=LAPTOP-6SGVUNSR\SQLEXPRESS;Initial Catalog=SqlAdres;Integrated Security=True";
+            string connectionString = @"Data Source=Tobeadded;Initial Catalog=SqlAdres;Integrated Security=True";
             DbProviderFactory sqlFactory = DbProviderFactories.GetFactory("sqlServer");
             HashSet<Gemeente> gemeente = new HashSet<Gemeente>();
             gemeente.Add(new Gemeente(10000, "tienduizend"));
